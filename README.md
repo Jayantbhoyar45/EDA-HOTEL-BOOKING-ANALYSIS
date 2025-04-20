@@ -1,4 +1,4 @@
-#EDA-HOTEL-BOOKING-ANALYSIS
+# EDA-HOTEL-BOOKING-ANALYSIS
 
 ### **Project Summary :-**
 This project focuses on a comprehensive data analysis of hotel bookings to uncover meaningful insights related to guest behavior and hotel performance. The dataset is divided into two categories: City Hotel and Resort Hotel, allowing for comparative analysis across different hotel types.
@@ -6,7 +6,7 @@ Before performing any visualizations, the data undergoes thorough data cleaning.
 
 The objective of the project is to provide actionable insights that hotel managers can use to improve guest satisfaction, optimize room allocation, and reduce cancellations through data-driven decision-making.
 
-###Dataset:
+### Dataset:
 The given dataset have information of city and resort hotel. This dataset have 119389 rows and 32 coulumns. The columns from the dataset is as follows:
 
 Hotel: Type of hotel(City or Resort)
@@ -75,7 +75,7 @@ reservation_status_date: Date at which the last reservation status was updated
 
 
 
-###Solution To Business Objective
+### Solution To Business Objective
 What Do You Suggest The Client To Achieve Business Objective?
 
 Reduce OTA cancellations by offering perks for direct website bookings (e.g., discounts, loyalty points).
@@ -99,7 +99,7 @@ Launch early bird discounts for long lead times and last-minute deals to fill ga
 City Hotels: Improve loyalty and services to retain demand. Resort Hotels: Add experiences (spa, nature tours) to attract more bookings.
 
 
-###Conclusion
+### Conclusion
 1.City hotels experience more cancellations than resort hotels.
 
 2.July and August are peak months; bookings drop in January and November.
